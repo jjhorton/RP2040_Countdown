@@ -28,7 +28,7 @@ jobs:
         run: |
           openscad -o mount_production.stl -D 'quality="production"' project/Mount/countdown_mount.scad
 
-     - name: Retrieve results
+      - name: Retrieve results
         if: ${{ always() }}
         uses: actions/upload-artifact@v2
         with:
