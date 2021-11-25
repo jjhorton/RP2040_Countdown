@@ -1,3 +1,9 @@
+/**
+ * Copyright (c) 2020 James Horton (@JamesjHorton)
+ *
+ * SPDX-License-Identifier: BSD-3-Clause
+ */
+
 #ifndef MY7SEG_H
 #define MY7SEG_H
 

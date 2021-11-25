@@ -1,3 +1,10 @@
+/**
+ * Copyright (c) 2020 James Horton (@JamesjHorton)
+ *
+ * SPDX-License-Identifier: BSD-3-Clause
+ */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 

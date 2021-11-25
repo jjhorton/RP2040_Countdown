@@ -1,7 +1,7 @@
 /**
  * Copyright (c) 2020 James Horton (@JamesjHorton)
  *
- * BSD-3-Clause
+ * SPDX-License-Identifier: BSD-3-Clause
  */
 
 // Standard Libraries
