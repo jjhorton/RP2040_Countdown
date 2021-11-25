@@ -11,7 +11,7 @@ on:
       - 'Mount/countdown_mount.scad'
 
 jobs:
-  Build-Software:
+  Create-STL:
     runs-on: ubuntu-latest
 
     steps:
