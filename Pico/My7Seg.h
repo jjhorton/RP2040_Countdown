@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2020 James Horton (@JamesjHorton)
+ * Copyright (c) 2021 James Horton (@JamesjHorton)
  *
  * SPDX-License-Identifier: BSD-3-Clause
  */
